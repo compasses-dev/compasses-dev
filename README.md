@@ -5,6 +5,7 @@ We're currently working on Stowage, a, momentarily private, continuation and imp
 
 We're also currently learning web development and aspiring to become a Full Stack Developer, but it's still early days for that.
 
-You may see our commits are relatively unique being authored by e.g. "Astra Belle" and commited by "Quinn Bailey" or "compasses-dev" on GitHub, this is so we can have it attached to both who within the collective authored the commit and our legal self.
+You may see our commits are relatively unique being authored by e.g. "Astra Belle" and commited by "Quinn Bailey" or "compasses-dev" on GitHub, this is so we can have it attached to both who within the collective authored the commit and our legal self.  
+Not all of our commits will be like this, most notably our legacy commits and commits made while dissociated or on GitHub itself.
 
 🚧 Under construction 🚧
